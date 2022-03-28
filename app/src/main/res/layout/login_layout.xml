@@ -13,6 +13,8 @@
         android:src="#2c2c2c" />
 
     <EditText
+        android:background="@drawable/borda"
+        android:padding="5dp"
         android:id="@+id/edtUsuario"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -21,6 +23,8 @@
         android:maxLength="100" />
 
     <EditText
+        android:background="@drawable/borda"
+        android:padding="5dp"
         android:id="@+id/edtSenha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
